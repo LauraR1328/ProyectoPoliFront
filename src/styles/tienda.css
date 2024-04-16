@@ -1,0 +1,23 @@
+.container-custom {
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 5%;
+    margin-bottom: 8%;
+}
+
+
+.centered-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.nav-link {
+    color: black !important;
+    /* Cambiar a color negro */
+}
+
+.nav-link.active .btn {
+    background-color: yellow !important;
+  }

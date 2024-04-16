@@ -1,0 +1,13 @@
+.slider{
+
+    width: 80%;
+    height: 300px;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+
+#imgA{
+    opacity: 0.9;
+  filter: alpha(opacity=100);
+}
+

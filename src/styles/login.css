@@ -1,0 +1,28 @@
+/* Estilos para el botón de Google */
+#btn-google {
+    background-color: #949494; /* Cambia este color al deseado */
+    border-color: #949494; /* Cambia este color al deseado */
+    color: #000; /* Texto negro */
+}
+
+.btn-google:hover {
+    background-color: #a8a8a8; /* Cambio de color al pasar el ratón */
+    border-color: #a8a8a8; /* Cambio de color al pasar el ratón */
+    color: #000; /* Texto negro */
+}
+
+/* Margen inferior del contenedor del formulario */
+#container {
+    margin-bottom: 12%; 
+    padding-bottom: 5%;
+    margin-top: 12%;
+    padding-top: 5%;
+    margin-left: 32%;
+}
+
+#registro{
+  
+    margin-bottom: 5%;
+
+}
+
